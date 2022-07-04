@@ -115,6 +115,11 @@ span {
     box-shadow: 10px 10px 40px rgb(136, 52, 38);
     border-top: 7px solid blue;
     border-radius: 10px;
+    transition: transform 2s;
+}
+
+.exp-item1:hover {
+    transform: rotate(360deg);
 }
 
 .exp-item2 {
@@ -125,6 +130,11 @@ span {
     box-shadow: 10px 10px 40px rgb(136, 52, 38);
     border-top: 7px solid orange;
     border-radius: 10px;
+    transition: transform 2s;
+}
+
+.exp-item2:hover {
+    transform: rotate(360deg);
 }
 
 footer p {
