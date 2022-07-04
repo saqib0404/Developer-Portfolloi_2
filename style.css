@@ -1,0 +1,19 @@
+/* common code starts */
+h1,
+h2,
+h3 {
+    font-family: 'Headland One', serif;
+}
+
+span {
+    color: orange;
+}
+
+/* common code  ends*/
+
+/* bannar section starts */
+.banner-section {
+    display: flex;
+}
+
+/* bannar section starts */
